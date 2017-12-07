@@ -15,7 +15,9 @@ out/
 
 # Gradle files
 .gradle/
+gradle/*
 build/
+app/build/*
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -33,6 +35,7 @@ proguard/
 captures/
 
 # Intellij
+.idea/*
 *.iml
 .idea/workspace.xml
 .idea/tasks.xml
